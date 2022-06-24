@@ -1,0 +1,31 @@
+Dio – Bootcamp Santander 08/06/2022
+Pensamento Computacional
+Pilares –
+Decomposição, Padrões, Abstração, Algoritmos
+Raciocínio lógico, Aperfeiçoamento
+
+Decomposição 
+•	Identificar 
+•	Agregar os dados 
+•	Funcionalidade
+
+GIT e GIT HUB
+Navegação no terminal Windows:
+Dir – listar pastas 
+cd .. ( cd barra dois pontos) - voltar um nível
+tab – auto completar
+mkdir- criar uma pasta 
+echo – print tetxo
+ del – deleta o conteúdo da pasta e não a pasta 
+rmdir – deleta a pasta 
+
+GIT
+Objetos do git responsáveis pelo versionamento do código 
+Bloobs – Eles armazenam o conteúdo( guardam os caracteres identificadores o SHA) com seus metadados( tamanho, tipo.)
+Trees	- Elas armazenam bloobs, e outras Tree e os tbm os nomes dos arquivos. E geram o seu próprio SHA1 
+Commits -  Armazenam bloobs e trees , com informações de autor , mensagem , parente e timestamp.
+
+Chaves SSh and tokens.	
+
+Comandos Git 
+git init- inicializa o repositorio
